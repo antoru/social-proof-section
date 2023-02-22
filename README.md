@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [...](...)
+- Live Site URL: [https://antoru-social-proof-section.netlify.app/](https://antoru-social-proof-section.netlify.app/)
 
 ## My process
 
